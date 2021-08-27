@@ -1,5 +1,5 @@
 //Micro Project  program: snake Game
-//created by Roll No:43 Name:SHAIKH MOHAMMED ALIHASAN SALAMUDDIN
+//created by  Name:SHAIKH MOHAMMED ALIHASAN SALAMUDDIN
 #include<stdio.h>
 #include<dos.h>
 #include<ctype.h>
